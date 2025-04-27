@@ -2,7 +2,7 @@ body {
   background-color: rgb(17, 144, 66);
 }
 p {
-  margin: 100px;
+  margin: 10px;
   font-size: medium;
 }
 .pancarta {
@@ -10,5 +10,5 @@ p {
   color: rgb(211, 211, 211);
 }
 img {
-  margin: 100px;
+  margin: 10px;
 }
