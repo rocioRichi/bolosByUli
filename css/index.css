@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(17, 144, 66);
+}
+p {
+  font-size: xx-large;
+  margin: 100px;
+}
+.pancarta {
+  font-size: 90px;
+  color: rgb(211, 211, 211);
+}
+img {
+  margin: 100px;
+}
