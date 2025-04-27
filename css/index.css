@@ -3,6 +3,7 @@ body {
 }
 p {
   margin: 100px;
+  font-size: medium;
 }
 .pancarta {
   font-size: 90px;
